@@ -55,7 +55,6 @@ print(floor)
 
 radius = 30
 
-area = math.pi * (radius**2)
 
 print(f"The Area of the circle with radius {radius} m. is: {area} sqr meters" )
 

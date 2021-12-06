@@ -1,0 +1,18 @@
+multiline_string = """This 
+is a 
+multiline string 
+
+"""
+print(multiline_string)
+
+language = 'Python'
+first_letter = language[0]
+print(first_letter) # P
+second_letter = language[1]
+print(second_letter) # y
+last_index = len(language) - 1
+last_letter = language[last_index]
+print(last_letter) # n
+
+greeting = 'Hello, World!'
+print(greeting[::-1]) # !dlroW ,olleH
